@@ -1,0 +1,17 @@
+{
+    "name": "gentiumbookbasic-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Victor Gaultney"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/gentiumbookbasic-bower.git"
+    },
+    "description": "Gentium Book Basic font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
